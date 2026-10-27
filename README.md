@@ -53,3 +53,18 @@ This project is publicly presented for portfolio and demonstration purposes only
 No permission is granted to copy, modify, distribute, or use the project materials without prior written authorization from the owner.
 
 The original Power BI source files and datasets are not publicly distributed.
+
+
+
+
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Employee-Rankings.PNG)
+
+### Employee of the Month Analysis
+![Employee of the Month Analysis](Monthly-Winner.PNG)
+
+### Employee Performance
+![Employee Performance](Employee-Performance.PNG)
